@@ -18,4 +18,3 @@ AND/OR
 
 Add a dropdown to choose a genre of music to display - more URLS can be found at this page, just change the 'xml' part to 'json': https://rss.itunes.apple.com/us/?urlDesc=%2Fgenerator
 
-# DIG DEEP, G6 - FIND THE KNOWLEDGE THAT LAY WITHIN YOU ALL ALONG AND BEST YOUR FINAL HOMEWORK, FOR WE BELIEVE IN YOU AND THERE IS VERY LITTLE YOU CANNOT ACHIEVE IF YOU PUT YOUR GLORIOUS MINDS TO IT
