@@ -1,3 +1,37 @@
-.li {
-  
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 10px;
+}
+
+ol li {
+  background: #ffe5e5;
+  padding: 25px;
+  margin-left: 20px;
+}
+
+ul li {
+  margin: 5px;
+}
+
+h1 {
+  color: #ff9999;
+  font-family:verdana;
+  text-shadow: 2px 2px black;
+  font-size: 40px;
+  padding-left: 30px;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family:verdana;
+}
+
+img.expand {
+  width: 7em;
 }

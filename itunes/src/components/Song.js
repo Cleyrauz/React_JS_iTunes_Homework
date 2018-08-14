@@ -8,7 +8,7 @@ const Song = (props) => {
   return (<React.Fragment>
          <p>Song: {props.song.label}</p>
          <p>Artist: {props.artist.label}</p>
-         <img src={props.image[0].label} alt="Album Cover"/>
+         <img src={props.image[0].label} alt="Album Cover" class="expand"/>
  </React.Fragment>)
 
 }
