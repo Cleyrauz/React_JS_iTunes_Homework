@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
+import BestSongsContainer from './containers/BestSongsContainer';
 
 class App extends Component {
   render() {
-<p> itunes App</p>
+    return (
+     <BestSongsContainer />
     );
   }
 }
